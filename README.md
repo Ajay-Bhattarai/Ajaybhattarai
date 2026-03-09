@@ -4,7 +4,7 @@
 
 <p align="left"></p>
 
-###
+
 
 <h2 align="left">Hi, I'm Ajay Raj Bhattarai 👋  <br>Software developer from Nepal 🇳🇵. I build web apps and love coding.</h2>
 
